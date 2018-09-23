@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "fa9edd4cf858e8f95be57f397e0a0522"
+build_time: [1537684540, 720484000]
+inputs:
+  "/Users/shrijanaryal/Desktop/ios/ParseChat/ParseChat/ViewControllers/LoginViewController.swift": [1537684535, 0]
+  "/Users/shrijanaryal/Desktop/ios/ParseChat/ParseChat/Views/ChatCell.swift": [1537681583, 0]
+  "/Users/shrijanaryal/Desktop/ios/ParseChat/ParseChat/AppDelegate.swift": [1537684033, 0]
+  "/Users/shrijanaryal/Desktop/ios/ParseChat/ParseChat/ViewControllers/TableChatController.swift": [1537683748, 0]

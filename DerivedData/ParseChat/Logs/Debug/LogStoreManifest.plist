@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>03586102-C0BF-4D2A-87FF-C55E9E2AD2F1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>03586102-C0BF-4D2A-87FF-C55E9E2AD2F1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375591.58656204</real>
+			<key>timeStoppedRecording</key>
+			<real>559375650.85933697</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>03586102-C0BF-4D2A-87FF-C55E9E2AD2F1</string>
+		</dict>
+		<key>38BEBF50-B220-4754-9663-450393D3C4A9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>38BEBF50-B220-4754-9663-450393D3C4A9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375240.64223599</real>
+			<key>timeStoppedRecording</key>
+			<real>559375277.16573298</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>38BEBF50-B220-4754-9663-450393D3C4A9</string>
+		</dict>
+		<key>3E2DA008-378F-433D-8996-D41232216F22</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E2DA008-378F-433D-8996-D41232216F22.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559377348.07585299</real>
+			<key>timeStoppedRecording</key>
+			<real>559377535.85561705</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>3E2DA008-378F-433D-8996-D41232216F22</string>
+		</dict>
+		<key>40E0E508-A9E9-4515-AAE7-D938487BB151</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>40E0E508-A9E9-4515-AAE7-D938487BB151.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376857.79944503</real>
+			<key>timeStoppedRecording</key>
+			<real>559377340.80717802</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>40E0E508-A9E9-4515-AAE7-D938487BB151</string>
+		</dict>
+		<key>57A6A81E-AC71-4576-BD0E-A21DAA1D611B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>57A6A81E-AC71-4576-BD0E-A21DAA1D611B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376140.39358997</real>
+			<key>timeStoppedRecording</key>
+			<real>559376203.51842701</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>57A6A81E-AC71-4576-BD0E-A21DAA1D611B</string>
+		</dict>
+		<key>5D1475D4-92D7-4A26-B304-0BEA6D4BB899</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D1475D4-92D7-4A26-B304-0BEA6D4BB899.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375332.72867</real>
+			<key>timeStoppedRecording</key>
+			<real>559375511.64481795</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>5D1475D4-92D7-4A26-B304-0BEA6D4BB899</string>
+		</dict>
+		<key>5D243138-70C7-4378-AF9E-EAE6C556BEE7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D243138-70C7-4378-AF9E-EAE6C556BEE7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376674.94720399</real>
+			<key>timeStoppedRecording</key>
+			<real>559376724.43782997</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>5D243138-70C7-4378-AF9E-EAE6C556BEE7</string>
+		</dict>
+		<key>5D8ECDD5-DA28-4EB4-89DB-64586A582C4C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D8ECDD5-DA28-4EB4-89DB-64586A582C4C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376007.14385998</real>
+			<key>timeStoppedRecording</key>
+			<real>559376043.88462901</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>5D8ECDD5-DA28-4EB4-89DB-64586A582C4C</string>
+		</dict>
+		<key>7BB402C2-ECD9-40EB-8FB5-B9FC0E836F18</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7BB402C2-ECD9-40EB-8FB5-B9FC0E836F18.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375517.42788899</real>
+			<key>timeStoppedRecording</key>
+			<real>559375589.17831397</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>7BB402C2-ECD9-40EB-8FB5-B9FC0E836F18</string>
+		</dict>
+		<key>875348DA-E21E-4B0E-9BD2-D0F0221A2D54</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>875348DA-E21E-4B0E-9BD2-D0F0221A2D54.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375778.69870806</real>
+			<key>timeStoppedRecording</key>
+			<real>559375959.81775904</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>875348DA-E21E-4B0E-9BD2-D0F0221A2D54</string>
+		</dict>
+		<key>95E4A461-18D2-4FD0-BB86-742064CA91A1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>95E4A461-18D2-4FD0-BB86-742064CA91A1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376081.84498</real>
+			<key>timeStoppedRecording</key>
+			<real>559376137.517784</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>95E4A461-18D2-4FD0-BB86-742064CA91A1</string>
+		</dict>
+		<key>970EFEB6-5A5B-4C99-900A-5E65E2F89D4E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>970EFEB6-5A5B-4C99-900A-5E65E2F89D4E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375965.23401701</real>
+			<key>timeStoppedRecording</key>
+			<real>559376005.63390899</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>970EFEB6-5A5B-4C99-900A-5E65E2F89D4E</string>
+		</dict>
+		<key>AE4000BC-FDFA-4231-AFF0-782C7FBF8D83</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AE4000BC-FDFA-4231-AFF0-782C7FBF8D83.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376207.35358</real>
+			<key>timeStoppedRecording</key>
+			<real>559376551.28638399</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>AE4000BC-FDFA-4231-AFF0-782C7FBF8D83</string>
+		</dict>
+		<key>B3A37A5C-834C-4461-97E9-918C37A3801D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B3A37A5C-834C-4461-97E9-918C37A3801D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375654.65580404</real>
+			<key>timeStoppedRecording</key>
+			<real>559375774.32985997</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>B3A37A5C-834C-4461-97E9-918C37A3801D</string>
+		</dict>
+		<key>BFC5745B-B50F-4DAD-9BAA-97CF11F77F36</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BFC5745B-B50F-4DAD-9BAA-97CF11F77F36.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559375280.91903496</real>
+			<key>timeStoppedRecording</key>
+			<real>559375329.36738706</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>BFC5745B-B50F-4DAD-9BAA-97CF11F77F36</string>
+		</dict>
+		<key>DC2CB849-91B8-48DF-B671-E1F8ACF1BF6A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DC2CB849-91B8-48DF-B671-E1F8ACF1BF6A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376729.31166101</real>
+			<key>timeStoppedRecording</key>
+			<real>559376849.02328598</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>DC2CB849-91B8-48DF-B671-E1F8ACF1BF6A</string>
+		</dict>
+		<key>DD185279-DDCA-4B4C-B9C7-31335D16E747</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DD185279-DDCA-4B4C-B9C7-31335D16E747.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376560.66071999</real>
+			<key>timeStoppedRecording</key>
+			<real>559376669.41634405</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>DD185279-DDCA-4B4C-B9C7-31335D16E747</string>
+		</dict>
+		<key>F002AF6C-7760-4125-A5BA-58B81C4B4F20</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F002AF6C-7760-4125-A5BA-58B81C4B4F20.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559376047.27678704</real>
+			<key>timeStoppedRecording</key>
+			<real>559376078.97872996</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>F002AF6C-7760-4125-A5BA-58B81C4B4F20</string>
+		</dict>
+		<key>F01AB1B4-D9C4-4DC3-9F19-90A0CFECCD8F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F01AB1B4-D9C4-4DC3-9F19-90A0CFECCD8F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ParseChat project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ParseChat</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug ParseChat</string>
+			<key>timeStartedRecording</key>
+			<real>559374949.53269398</real>
+			<key>timeStoppedRecording</key>
+			<real>559375233.96714497</real>
+			<key>title</key>
+			<string>Debug ParseChat</string>
+			<key>uniqueIdentifier</key>
+			<string>F01AB1B4-D9C4-4DC3-9F19-90A0CFECCD8F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
